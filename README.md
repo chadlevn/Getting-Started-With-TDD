@@ -4,4 +4,4 @@ This is an archived presentation roll for a DSM Web Geeks talk given on 4/17/202
 
 See `Summary.md` for the presentation material.
 
-Check out "TDD Outdoors" in my repos.
+Check out [TDD Outdoors](https://github.com/chadlevn/TDD-Outdoors) in my repos.
